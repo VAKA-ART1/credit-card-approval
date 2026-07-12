@@ -1,0 +1,18 @@
+# Virtual Environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Ignore trained model
+models/credit_card_model.pkl
+
+# Ignore datasets
+models/dataset/
+
+# Logs
+*.log
